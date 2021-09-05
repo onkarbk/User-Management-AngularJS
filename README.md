@@ -74,6 +74,11 @@ passport.use(new GoogleStrategy({
     }
 ```
 
+- Installation is complete. Navigate to folder where server.js file is located and enter the following into command prompt:
+
+```
+$ npm start server.js
+```
 
 ## Code Snippet showing connection with the Database
 
@@ -109,11 +114,7 @@ passport.use(new GoogleStrategy({
     permission: { type: String, required: true, default: 'user' }
   });
 ``` 
-- Installation is complete. Navigate to folder where server.js file is located and enter the following into command prompt:
 
-```
-$ npm start server.js
-```
 
 ## Home Page View
 
