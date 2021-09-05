@@ -14,7 +14,7 @@
 •	Act as a platform for companies to further build their own products on top of this while using our authentication and user roles. 
 
 ## Software Technologies Used
-  ‘User Management System’ has been created using *HTML* for the structure of the web pages, *CSS* for the presentation of the webpages, *JavaScript* to handle events and other functionalities, *jQuery* for smooth animation effects, *NodeJS* for connecting with the database and as a backend API to route, retrieve and fetch pages, and *AngularJS* to create a minimalist and professional UI for the client-side display of the web application. 
+  ‘User Management System’ has been created using ~HTML~ for the structure of the web pages, *CSS* for the presentation of the webpages, *JavaScript* to handle events and other functionalities, *jQuery* for smooth animation effects, *NodeJS* for connecting with the database and as a backend API to route, retrieve and fetch pages, and *AngularJS* to create a minimalist and professional UI for the client-side display of the web application. 
 	The project also uses *MongoDB* as the database to store all the details of the users. Additionally, we also use the *Mongoose* library of NodeJS to connect with the database. We have also used *PassportJS* library of NodeJS to create a seamless login experience for the user using social media like Facebook, Twitter and. Google. 
   
 ![image](https://user-images.githubusercontent.com/61402801/132120219-69e7b444-c597-4315-adc9-cc6857802209.png)
